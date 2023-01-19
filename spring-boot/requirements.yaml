@@ -1,0 +1,5 @@
+dependencies:
+  - name: spring-boot
+    version: 0.0.1
+    repository: >-
+      http://artifactory-artifactory.tools:8082/artifactory/generic-local/spring-boot-dev
